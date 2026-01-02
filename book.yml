@@ -1,0 +1,37 @@
+---
+:title: 민수의 여행
+:subtitle: 소년의 성장 이야기
+:author: 테스트 작가
+:book_type: novel
+:paper_size: A5
+:dimensions:
+  :width_mm: !ruby/object:BigDecimal 9:0.148e3
+  :height_mm: !ruby/object:BigDecimal 9:0.21e3
+  :margins:
+    :top: !ruby/object:BigDecimal 9:0.2e2
+    :bottom: !ruby/object:BigDecimal 9:0.2e2
+    :left: !ruby/object:BigDecimal 9:0.2e2
+    :right: !ruby/object:BigDecimal 9:0.15e2
+:documents:
+  :front_matter: []
+  :body_matter:
+  - :file: chapter_01.md
+    :title: '제1장: 시작'
+    :type: chapter
+  - :file: chapter_02.md
+    :title: '제2장: 만남'
+    :type: chapter
+  - :file: chapter_03.md
+    :title: '제3장: 도시'
+    :type: chapter
+  - :file: chapter_04.md
+    :title: '제4장: 바다'
+    :type: chapter
+  - :file: chapter_05.md
+    :title: '제5장: 귀환'
+    :type: chapter
+  :back_matter:
+  - :file: epilogue_06.md
+    :title: '에필로그: 새로운 시작'
+    :type: epilogue
+:last_synced: '2026-01-02T23:54:50Z'
